@@ -1,0 +1,8 @@
+services:
+
+  builder:
+    image: ubuntu
+    hostname: ubuntu
+    build: ./builder
+    volumes:
+      - $HOME/ubuntu-docker/mnt:/home/alonsy
