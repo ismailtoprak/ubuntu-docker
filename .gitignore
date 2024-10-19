@@ -1,11 +1,8 @@
 *
-!builder/
-!builder/*
-!layers/
-!layers/*
+!mnt
+!mnt/*
 !*.yml
 !*.sh
 !*conf
 !README.md
 !.gitignore
- 
